@@ -260,6 +260,9 @@ user_pref("findbar.highlightAll", true);
 ****************************************************************************/
 // Enter your personal prefs below this line:
 
+user_pref("media.autoplay.default", 5);
+user_pref("media.autoplay.blocking_policy", 2);
+
 /****************************************************************************
  * END: BETTERFOX                                                           *
 ****************************************************************************/
